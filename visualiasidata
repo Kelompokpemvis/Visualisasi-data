@@ -1,7 +1,8 @@
 {
-"website"
-"sosial media"
-"facebook"
-"twitter"
-"instagram"
+    "situsweb" :"https//www.wanda.com",
+    "sosial media" :"m.wanda",
+    "facebook" : "wanda",
+    "twitter" : "@mwanda",
+    "instagram" : "@mwanda"
+
 }
